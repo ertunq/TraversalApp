@@ -1,0 +1,15 @@
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Ertugrul\source\repos\TraversalApp\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
